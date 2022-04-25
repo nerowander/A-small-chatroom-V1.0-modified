@@ -1,0 +1,13 @@
+
+html, body, div, b, h1, h2, h3, h4, h5, h6, input, button{
+    text-align:center;
+}
+
+body{
+    background-image: url(https://s2.loli.net/2022/03/20/NqrzvJloLtegnDW.png);
+}
+
+b{
+    color:darksalmon;
+    text-align:center;
+}
